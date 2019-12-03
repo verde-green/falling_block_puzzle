@@ -17,5 +17,3 @@ Processingを導入してpdeファイルを開いて実行してください。
 ## 透過モード
 開発中のバグから生まれた機能。  
 面白そうだったので修正せずにゲームモードの１つとして残しました。
-![default]("https://user-images.githubusercontent.com/20317687/70064650-3bc00200-162d-11ea-925f-1ee2f4d1b5da.png")
-![tarnsmit]("https://user-images.githubusercontent.com/20317687/70065336-4cbd4300-162e-11ea-84cf-c67d0b7698ea.png")
