@@ -1,5 +1,5 @@
 # Falling Block Puzzle
-## 概要
+
 学部２年の時に課題として制作したものです。  
 クラスを作ったりしてないので冗長なコードです。  
 Processing2で書きましたが、Processing3.5.3で動作確認済み(macOS High Sierra 10.13.6)。
@@ -8,7 +8,7 @@ Processing2で書きましたが、Processing3.5.3で動作確認済み(macOS Hi
 1. Processingを導入してpdeファイルを開いて実行してください。
 2. 操作方法
 |キー|説明|
-|:--|:--|
+|---|---|
 |<kbd>カーソルキー</kbd>|移動。ただし、↑キーはハードドロップ(最下層まで即落下)。|
 |<kbd>Space</kbd>|回転。|
 |<kbd>Shift</kbd>|ホールド。|
