@@ -5,7 +5,7 @@
 Processing2で書きましたが、Processing3.5.3で動作確認済み(macOS High Sierra 10.13.6)。
 
 ## 遊び方
-Processingを導入してpdeファイルを開いて実行してください。  
+Processingを導入してpdeファイルを開いて実行してください。    
 |キー|説明|
 |:---|:---|
 |<kbd>カーソルキー</kbd>|移動。ただし、↑キーはハードドロップ(最下層まで即落下)。|
