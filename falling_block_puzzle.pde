@@ -55,8 +55,7 @@ void setup() {
   try {
     rline = reader.readLine();
   }
-  catch(IOException e) {
-    e.printStackTrace();
+  catch(Exception e) {
     rline = null;
   }
 
