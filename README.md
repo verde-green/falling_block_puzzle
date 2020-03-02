@@ -5,7 +5,8 @@
 Processing2で書きましたが、Processing3.5.3で動作確認済み(macOS High Sierra 10.13.6)。
 
 ## 遊び方
-Processingを導入してpdeファイルを開いて実行してください。  
+Processingを導入してpdeファイルを開いて実行してください。
+[デモページ](https://verde-green.github.io/gh_pages_test/index.html)作りました。
 
 |キー|説明|
 |:---|:---|
